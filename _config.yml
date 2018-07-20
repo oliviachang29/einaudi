@@ -1,4 +1,4 @@
-title: 
+title: Ludovico Einaudi
 description: >
 
 baseurl: "" # the subpath of your site, e.g. /blog
@@ -12,3 +12,7 @@ gems:
 exclude:
   - Gemfile
   - Gemfile.lock
+collections:
+  projects:
+    title: Projects
+    output: true
